@@ -28,11 +28,11 @@
     </pluginRepositories>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>boco</groupId>
-	<artifactId>ips-mvc</artifactId>
+	<artifactId>my-mvc</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>ips-mvc</name>
+	<name>my-mvc</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
